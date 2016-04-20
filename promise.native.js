@@ -1,1 +1,1 @@
-module.exports = require('promise/setimmediate/es6-extensions')
+module.exports = global.Promise
